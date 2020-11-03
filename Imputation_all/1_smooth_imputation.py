@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Davide Aureli, Renato Bruni, Cinzia Daraio
+@author: Davide Aureli, Renato Bruni, Cinzia Daraio 
 
 """
 
